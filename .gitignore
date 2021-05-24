@@ -1,0 +1,6 @@
+package-lock.json
+node_modules
+.babelrc
+credentials.json
+.env
+data.json
